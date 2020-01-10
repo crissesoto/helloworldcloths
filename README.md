@@ -41,7 +41,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Myle Troung** - *Front-end* - [myle-truong](https://github.com/myle-truong)
 * **Crisse Soto** - *Front-end* - [crissesoto](https://github.com/crissesoto)
-* **Rico Pehangko** - *Backend* - [ricojr](https://github.com/ricojr)
+* **Rico Pehangko** - *Backend* - [ricojr](https://github.com/ricojr) test merge
 * **Naoyuki Arakawa** - *Backend* - [NaoyukiArakawa](https://github.com/NaoyukiArakawa)
 
 
